@@ -40,3 +40,5 @@ Ah 君はいつの日か深い眠りにおちてしまうんだね
 body {
     text-aligh: 8px;
 }
+<h2>HIRAKAWA</h2>
+<p>rock2</p>
